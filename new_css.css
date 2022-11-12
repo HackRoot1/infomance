@@ -1,0 +1,60 @@
+.linear_gradient > p {
+				font-size: 90px;
+				font-weight: 700;
+				text-align: center;
+				text-shadow: 10px 10px 10px grey;
+			}
+			
+			
+			.linear_gradient {
+				margin-top: 1%;
+				margin-bottom: 1%;
+				height: 400px;
+				color: #f0f0f0;
+				border-radius: 25%;
+			}
+			
+			.work {
+				font-size: 80px;
+				font-weight: 700;
+			}
+			
+			.card:hover {
+				transition: 0.5s ease;
+				box-shadow: 0 1rem 3rem grey !important;
+				
+			}
+			
+			.three {
+				border-radius: 50px;
+				min-height: 500px;
+			}
+			
+			a {
+				display: block;
+				text-decoration: none;
+				color:black;
+			}
+			
+			p {
+				font-size: 20px;
+			}
+				
+			.two {
+				box-shadow: 5px 5px 40px black;
+			}
+			
+			.foot{
+				border-radius: 50px;
+			}
+			
+			.rr{
+				color:red;
+			}
+
+			.navbar-nav > img >{
+				padding: 5px;
+				width: 50px;
+				height: 50px;
+				box-sizing: border-box;
+			}
